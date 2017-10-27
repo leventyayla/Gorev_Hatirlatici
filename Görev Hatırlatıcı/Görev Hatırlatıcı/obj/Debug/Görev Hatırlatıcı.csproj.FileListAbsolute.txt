@@ -1,0 +1,10 @@
+C:\Users\Levent\Desktop\Görev Hatırlatıcı\Görev Hatırlatıcı\bin\Debug\Görev Hatırlatıcı.exe.config
+C:\Users\Levent\Desktop\Görev Hatırlatıcı\Görev Hatırlatıcı\bin\Debug\Görev Hatırlatıcı.exe
+C:\Users\Levent\Desktop\Görev Hatırlatıcı\Görev Hatırlatıcı\bin\Debug\Görev Hatırlatıcı.pdb
+C:\Users\Levent\Desktop\Görev Hatırlatıcı\Görev Hatırlatıcı\obj\Debug\Görev Hatırlatıcı.csprojResolveAssemblyReference.cache
+C:\Users\Levent\Desktop\Görev Hatırlatıcı\Görev Hatırlatıcı\obj\Debug\Görev_Hatırlatıcı.Form1.resources
+C:\Users\Levent\Desktop\Görev Hatırlatıcı\Görev Hatırlatıcı\obj\Debug\Görev_Hatırlatıcı.Properties.Resources.resources
+C:\Users\Levent\Desktop\Görev Hatırlatıcı\Görev Hatırlatıcı\obj\Debug\Görev Hatırlatıcı.csproj.GenerateResource.Cache
+C:\Users\Levent\Desktop\Görev Hatırlatıcı\Görev Hatırlatıcı\obj\Debug\Görev Hatırlatıcı.csproj.CoreCompileInputs.cache
+C:\Users\Levent\Desktop\Görev Hatırlatıcı\Görev Hatırlatıcı\obj\Debug\Görev Hatırlatıcı.exe
+C:\Users\Levent\Desktop\Görev Hatırlatıcı\Görev Hatırlatıcı\obj\Debug\Görev Hatırlatıcı.pdb
